@@ -3,7 +3,7 @@
 ---
 
 **完整项目代码见[GitHub](https://github.com/theolyu/aliyun-oss-windows_upload)**
-**本项目教程见[CSDN博客](https://blog.csdn.net/ForeverLyu/article/details/90083024)
+**本项目教程见[CSDN博客](https://blog.csdn.net/ForeverLyu/article/details/90083024)**
 
 ---
 
@@ -92,7 +92,7 @@ if __name__ == '__main__':
 
 > 可以在阿里云服务器上后台开启该任务, 用于接收OSS上传任务
 
-#### Flask Bug:
+#### Flask Bug
 - 高并发报错: 
 ```
 requests.exceptions.ConnectionError: ('Connection aborted.', BrokenPipeError(32, 'Broken pipe'))
